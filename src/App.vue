@@ -2,7 +2,7 @@
   <div id="app">
     <full-page ref="fullpage" :options="options">
       <div id="section-1" class="section top">
-        <h2>hello world</h2>
+        <h2>Hello World</h2>
         <h1>Scott</h1>
         <ul>
           <li>
