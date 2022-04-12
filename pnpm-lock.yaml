@@ -10,11 +10,13 @@ specifiers:
   eslint: ^7.32.0
   eslint-plugin-vue: ^8.0.3
   vue: ^2.6.14
+  vue-fullpage.js: ^0.1.7
   vue-template-compiler: ^2.6.14
 
 dependencies:
   core-js: 3.21.1
   vue: 2.6.14
+  vue-fullpage.js: 0.1.7_vue@2.6.14
 
 devDependencies:
   '@babel/core': 7.17.9
@@ -3509,6 +3511,10 @@ packages:
     dev: true
     optional: true
 
+  /fullpage.js/3.1.2:
+    resolution: {integrity: sha512-hv7z6xhbg2StTp1UDq2hi+0oHjhT7cW3zCL3qCIJ3ood5pN0FRBQ2YKIOUobhsp4ATSQlr6sZ2TOcS+Ha+T7Cg==}
+    dev: false
+
   /function-bind/1.1.1:
     resolution: {integrity: sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==}
     dev: true
@@ -6000,6 +6006,15 @@ packages:
     transitivePeerDependencies:
       - supports-color
     dev: true
+
+  /vue-fullpage.js/0.1.7_vue@2.6.14:
+    resolution: {integrity: sha512-dApXyMrAPhikXbl5ngXALvetsIZCOf+ug9kvcvVSQkOoG9yh9stq5PQYMz/A1yIBVUx1yE9/3cK3VP6rl26V1A==}
+    peerDependencies:
+      vue: ^2.3.0
+    dependencies:
+      fullpage.js: 3.1.2
+      vue: 2.6.14
+    dev: false
 
   /vue-hot-reload-api/2.3.4:
     resolution: {integrity: sha512-BXq3jwIagosjgNVae6tkHzzIk6a8MHFtzAdwhnV5VlvPTFxDCvIttgSiHWjdGoTJvXtmRu5HacExfdarRcFhog==}
