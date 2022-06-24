@@ -9,7 +9,7 @@
             <a
               target="ducument"
               class="pan-btn pan-primary"
-              href="https://swvv.github.io/wiki"
+              href="https://swvv.github.io/wiki/"
               >Wiki</a
             >
           </li>
