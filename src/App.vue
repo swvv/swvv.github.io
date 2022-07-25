@@ -9,8 +9,8 @@
             <a
               target="ducument"
               class="pan-btn pan-primary"
-              href="https://swvv.github.io/wiki/"
-              >Wiki</a
+              href="https://swvv.github.io/grammar/"
+              >Grammar</a
             >
           </li>
           <li>
