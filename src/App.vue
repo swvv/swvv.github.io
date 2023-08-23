@@ -9,8 +9,8 @@
             <a
               target="ducument"
               class="pan-btn pan-primary"
-              href="https://swvv.github.io/grammar/"
-              >Grammar</a
+              href="https://qwerty.imemm.com"
+              >QWERTY</a
             >
           </li>
           <li>
